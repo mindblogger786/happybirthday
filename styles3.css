@@ -24,3 +24,21 @@ h4{
     float: right;
     margin-right: 100px;
 }
+.ctr-1{
+    position: absolute;
+    width: 250px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ctr-2{
+    position: absolute;
+    width: 250px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 16px;
+    margin-left: 1070px;
+    margin-top: -170px;
+}
