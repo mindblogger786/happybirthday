@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Salsa', cursive;
+    background-color: #f20044;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+    height: 100vh;
+}
+h1{
+    display: block;
+    margin-top: 80px;
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
